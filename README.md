@@ -54,7 +54,7 @@
 
 ---
 
-<div>
+<div align="center">
 <!-- svg -->
 <img src="./assets/icons/svg/kubernetes.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="./assets/icons/svg/js.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -68,14 +68,14 @@
 <img src="./assets/icons/svg/ts.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="./assets/icons/svg/nginx.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 <!-- gif -->
-<img height="100" width="100" src="./assets/icons/gif/html.gif">
-<img height="100" width="100" src="./assets/icons/gif/css.gif">
-<img height="100" width="100" src="./assets/icons/gif/vscode.gif">
-<img height="100" width="100" src="./assets/icons/gif/react.gif">
-<img height="95" width="95" src="./assets/icons/gif/vue.gif">
-<img height="100" width="100" src="./assets/icons/gif/python.gif">
-<img height="100" width="100" src="./assets/icons/gif/js.gif">
-<img height="100" width="100" src="./assets/icons/gif/github.gif">
+<img height="100" width="100" src="./assets/icons/gif/html.webp">
+<img height="100" width="100" src="./assets/icons/gif/css.webp">
+<img height="100" width="100" src="./assets/icons/gif/vscode.webp">
+<img height="100" width="100" src="./assets/icons/gif/react.webp">
+<img height="95" width="95" src="./assets/icons/gif/vue.webp">
+<img height="100" width="100" src="./assets/icons/gif/python.webp">
+<img height="100" width="100" src="./assets/icons/gif/js.webp">
+<img height="100" width="100" src="./assets/icons/gif/github.webp">
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>
