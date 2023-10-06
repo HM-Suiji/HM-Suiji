@@ -80,6 +80,11 @@
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>
 
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 ---
 
 <p align="center"><img src="https://img.shields.io/badge/README_build-passing-30c452" /> <img alt="Stars" src="https://img.shields.io/github/stars/HM-Suiji/HM-Suiji?style=flat-square&labelColor=343b41"/>
