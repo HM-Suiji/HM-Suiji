@@ -80,12 +80,10 @@
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>
 
-<div>
-<h1>Todoist Stats</h1>
+# Todoist Stats
 
 <!-- TODO-IST::START -->
 <!-- TODO-IST::END -->
-</div>
 
 ---
 
