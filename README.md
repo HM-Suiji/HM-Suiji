@@ -56,26 +56,26 @@
 
 <div align="center">
 <!-- svg -->
-<img src="./assets/icons/svg/kubernetes.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="./assets/icons/svg/js.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="./assets/icons/svg/mysql.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="./assets/icons/svg/webpack.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="./assets/icons/svg/docker.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
-<img src="./assets/icons/svg/redux.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="./assets/icons/svg/java.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="./assets/icons/svg/eslint.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="./assets/icons/svg/cpp.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="./assets/icons/svg/ts.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="./assets/icons/svg/nginx.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+<img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/svg/kubernetes.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/svg/js.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/svg/mysql.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/svg/webpack.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/svg/docker.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
+<img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/svg/redux.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/svg/java.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/svg/eslint.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/svg/cpp.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/svg/ts.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/svg/nginx.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 <!-- gif -->
-<img height="100" width="100" src="./assets/icons/gif/html.webp">
-<img height="100" width="100" src="./assets/icons/gif/css.webp">
-<img height="100" width="100" src="./assets/icons/gif/vscode.webp">
-<img height="100" width="100" src="./assets/icons/gif/react.webp">
-<img height="95" width="95" src="./assets/icons/gif/vue.webp">
-<img height="100" width="100" src="./assets/icons/gif/python.webp">
-<img height="100" width="100" src="./assets/icons/gif/js.webp">
-<img height="100" width="100" src="./assets/icons/gif/github.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/gif/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/gif/css.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/gif/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/gif/react.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/gif/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/gif/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/gif/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/gif/github.webp">
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>
