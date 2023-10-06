@@ -36,22 +36,6 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
   <img alt="kali" src="https://img.shields.io/badge/-kali-557C94?style=flat-square&logo=kalilinux&logoColor=black" />
 </p>
-<h3>我的部分项目</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 项目名</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- something -->
-    </tr>
-  </tbody>
-</table>
 <h3>哪里可以找到我？</h3>
 <p>
     <a href="https://github.com/HM-Suiji" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
@@ -59,10 +43,10 @@
     <a href="https://qm.qq.com/q/Og4WNQoWgm" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/QQ-blue.svg?&style=for-the-badge&logo=tencentqq&logoColor=EB1923" />
 </p>
 
-
-
 ---
 
 <p align="center"><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://img.shields.io/badge/README_build-passing-30c452" /> <img alt="Stars" src="https://img.shields.io/github/stars/HM-Suiji/HM-Suiji?style=flat-square&labelColor=343b41"/>
+
+
 
