@@ -82,6 +82,8 @@
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>
 
+---
+
 # Todoist Stats
 
 <!-- TODO-IST:START -->
@@ -91,10 +93,15 @@
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
+---
+
 <!-- profile-3d-contrib 3D贡献图-->
 <img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji/profile-3d-contrib/profile-night-rainbow.svg" />
 
 ---
+
+<!-- [![HM-Suiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=HM-Suiji&theme=tokyonight)](https://github.com/HM-Suiji/github-readme-stats) -->
+
 
 <p align="center"><img src="https://img.shields.io/badge/README_build-passing-30c452" /> <img alt="Stars" src="https://img.shields.io/github/stars/HM-Suiji/HM-Suiji?style=flat-square&labelColor=343b41"/>
 
