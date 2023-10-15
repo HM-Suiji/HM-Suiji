@@ -89,7 +89,8 @@
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- profile-3d-contrib 3D贡献图-->
+<img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji/profile-3d-contrib/profile-night-rainbow.svg" />
 
 ---
 
