@@ -39,3 +39,13 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: badge-action
+        uses: emibcn/badge-action@v1.2.1
+        with:
+            label: 'Test coverage'
+            status: '53.4%'
+            color: 'blue,555,daf'
+            path: '.github/badges/coverage.svg'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
