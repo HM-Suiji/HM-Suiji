@@ -11,7 +11,8 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 你好! 很高兴见到你。</h1>
 
-[![Badge](https://jnmd564wpur0.runkit.sh)](https://git.io/gradientbadge) [![Badge]([https://kh3e2l6yrwr2.runkit.sh](https://wavrv7gd79ol.runkit.sh))](mailto:1704802092@qq.com)
+[![Badge](https://jnmd564wpur0.runkit.sh)](https://git.io/gradientbadge) [![Badge](https://wavrv7gd79ol.runkit.sh)](mailto:1704802092@qq.com)
+
 <table>
 <tr><td>
     <h3>About Me</h3>
