@@ -52,6 +52,9 @@
         <img alt="kali" src="https://img.shields.io/badge/-kali-557C94?style=flat-square&logo=kalilinux&logoColor=black" />
     </p>
 </td></tr>
+<tr><td>
+<!--START_SECTION:activity-->
+</td></tr>
 </table>
 
 ---
