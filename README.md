@@ -54,7 +54,7 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/HM-Suiji/it-tools/pull/1) in [HM-Suiji/it-tools](https://github.com/HM-Suiji/it-tools)
+1. 🗣 Commented on [#1691](https://github.com/nextui-org/nextui/issues/1691#issuecomment-2227170873) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
 2. 💪 Opened PR [#1](https://github.com/HM-Suiji/it-tools/pull/1) in [HM-Suiji/it-tools](https://github.com/HM-Suiji/it-tools)
 3. 💪 Opened PR [#457](https://github.com/liuzhihang/halo-theme-hao/pull/457) in [liuzhihang/halo-theme-hao](https://github.com/liuzhihang/halo-theme-hao)
 <!--END_SECTION:activity-->
