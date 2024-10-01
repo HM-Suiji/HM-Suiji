@@ -54,9 +54,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1691](https://github.com/nextui-org/nextui/issues/1691#issuecomment-2227170873) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-2. 💪 Opened PR [#1](https://github.com/HM-Suiji/it-tools/pull/1) in [HM-Suiji/it-tools](https://github.com/HM-Suiji/it-tools)
-3. 💪 Opened PR [#457](https://github.com/liuzhihang/halo-theme-hao/pull/457) in [liuzhihang/halo-theme-hao](https://github.com/liuzhihang/halo-theme-hao)
+1. 🔒 Closed issue [#131](https://github.com/lin-ycv/EverythingPowerToys/issues/131) in [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys)
+2. 🗣 Commented on [#131](https://github.com/lin-ycv/EverythingPowerToys/issues/131#issuecomment-2384832513) in [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys)
+3. ❗ Opened issue [#131](https://github.com/lin-ycv/EverythingPowerToys/issues/131) in [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
