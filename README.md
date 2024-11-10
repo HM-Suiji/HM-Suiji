@@ -54,9 +54,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#131](https://github.com/lin-ycv/EverythingPowerToys/issues/131) in [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys)
-2. 🗣 Commented on [#131](https://github.com/lin-ycv/EverythingPowerToys/issues/131#issuecomment-2384832513) in [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys)
-3. ❗ Opened issue [#131](https://github.com/lin-ycv/EverythingPowerToys/issues/131) in [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys)
+1. 🗣 Commented on [#72541](https://github.com/vercel/next.js/issues/72541#issuecomment-2466735893) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🔒 Closed issue [#131](https://github.com/lin-ycv/EverythingPowerToys/issues/131) in [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys)
+3. 🗣 Commented on [#131](https://github.com/lin-ycv/EverythingPowerToys/issues/131#issuecomment-2384832513) in [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
