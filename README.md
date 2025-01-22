@@ -54,9 +54,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2386](https://github.com/algolia/docsearch/issues/2386#issuecomment-2543150047) in [algolia/docsearch](https://github.com/algolia/docsearch)
-2. 🔒 Closed issue [#2386](https://github.com/algolia/docsearch/issues/2386) in [algolia/docsearch](https://github.com/algolia/docsearch)
-3. ❗ Opened issue [#2386](https://github.com/algolia/docsearch/issues/2386) in [algolia/docsearch](https://github.com/algolia/docsearch)
+1. ❗ Opened issue [#8](https://github.com/baotlake/periodic-table-pro/issues/8) in [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro)
+2. 🗣 Commented on [#6](https://github.com/baotlake/periodic-table-pro/issues/6#issuecomment-2607071837) in [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro)
+3. ❗ Opened issue [#7](https://github.com/baotlake/periodic-table-pro/issues/7) in [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
