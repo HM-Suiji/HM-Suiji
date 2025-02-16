@@ -54,9 +54,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/baotlake/periodic-table-pro/issues/8) in [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro)
-2. 🗣 Commented on [#6](https://github.com/baotlake/periodic-table-pro/issues/6#issuecomment-2607071837) in [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro)
-3. ❗ Opened issue [#7](https://github.com/baotlake/periodic-table-pro/issues/7) in [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro)
+1. 🗣 Commented on [#152](https://github.com/CherryHQ/cherry-studio/issues/152#issuecomment-2661386712) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🗣 Commented on [#1767](https://github.com/CherryHQ/cherry-studio/issues/1767#issuecomment-2661386015) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. 🗣 Commented on [#1768](https://github.com/CherryHQ/cherry-studio/issues/1768#issuecomment-2661385649) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
