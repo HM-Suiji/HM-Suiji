@@ -54,9 +54,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/CherryHQ/cherry-studio/issues/152#issuecomment-2661386712) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 🗣 Commented on [#1767](https://github.com/CherryHQ/cherry-studio/issues/1767#issuecomment-2661386015) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🗣 Commented on [#1768](https://github.com/CherryHQ/cherry-studio/issues/1768#issuecomment-2661385649) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🗣 Commented on [#1044](https://github.com/CherryHQ/cherry-studio/issues/1044#issuecomment-2661389170) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🗣 Commented on [#152](https://github.com/CherryHQ/cherry-studio/issues/152#issuecomment-2661386712) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. 🗣 Commented on [#1767](https://github.com/CherryHQ/cherry-studio/issues/1767#issuecomment-2661386015) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
