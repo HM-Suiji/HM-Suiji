@@ -1,8 +1,8 @@
-<p align="center">中文 | <a href="./README.en.md">English</a></p>
+<p align="center"><a href="./README.md">中文</a> | English</p>
 
 <div align="center">
     <!-- dynamic typing effect 动态打字效果 -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);你好，世界&center=true&size=27" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hello,World&center=true&size=27" alt="Typing SVG" />
 </div>
 
 <picture>
@@ -11,19 +11,19 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HM-Suiji/HM-Suiji/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 你好!👋 很高兴见到你。</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello!👋 Nice to meet you.
+</h1>
 
 <table>
 <tr><td>
     <h3>About Me</h3>
     <img align="right" width="88" src="https://avatars.githubusercontent.com/u/103424870"/>
-    <p>&emsp;&emsp;大家好, 我是穗积, 一名来自<img style="height:25px;" src="https://img.gugu.ovh/i/2023/08/31/njd0o5.webp"/><b>中国, 江西省</b>的前端偏全栈开发工程师。 </p>
-    <p>&emsp;&emsp;一名资深的<小白>程序员 doge</p>
-    <p>&emsp;&emsp;技术宅正在拯救世界ing! </p>
+    <p>&emsp;&emsp;Hello everyone, I'm Sui Ji, a front-end-biased full-stack development engineer from <img style="height:25px;" src="https://img.gugu.ovh/i/2023/08/31/njd0o5.webp"/><b>China, Jiangxi Province</b>. </p>
+    <p>&emsp;&emsp;A senior programmer</p>
  <p><strong>&emsp;&emsp;TECH OTAKUS SAVE THE WORLD. </strong></p>
 </td></tr>
 <tr><td>
-    <h1>我的技术栈</h1>
+    <h1>My Tech Stack</h1>
     <p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -74,11 +74,11 @@
     </p>
 </td></tr>
 <tr><td>
-    <h1>我的GitHub Stats</h1>
+    <h1>My GitHub Stats</h1>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HM-Suiji&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=cn&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HM-Suiji&locale=cn&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HM-Suiji&theme=tokyo-night&radius=10&custom_title=穗积的贡献图" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=HM-Suiji&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HM-Suiji&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HM-Suiji&theme=react&radius=10" height="150" alt="activity-graph graph"  />
 </div>
 </td></tr>
 <tr><td>
@@ -120,7 +120,7 @@
 
 ---
 
-# 待办状态
+# Todoist Stats
 
 <!-- TODO-IST:START -->
 🏆  300 Karma Points
