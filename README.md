@@ -123,9 +123,9 @@
 # 待办状态
 
 <!-- TODO-IST:START -->
-🏆  300 Karma Points
-🌸  Completed 0 tasks today
-✅  Completed 1 tasks so far
+🏆  300 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 1 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
