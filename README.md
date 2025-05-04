@@ -83,9 +83,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/CherryHQ/cherry-studio-app/pull/2) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
-2. 🗣 Commented on [#5154](https://github.com/CherryHQ/cherry-studio/issues/5154#issuecomment-2821031905) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🗣 Commented on [#1](https://github.com/CherryHQ/cherry-studio-app/pull/1#issuecomment-2818265764) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
+1. 🗣 Commented on [#8](https://github.com/baotlake/periodic-table-pro/issues/8#issuecomment-2849184194) in [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro)
+2. 🎉 Merged PR [#2](https://github.com/CherryHQ/cherry-studio-app/pull/2) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
+3. 🗣 Commented on [#5154](https://github.com/CherryHQ/cherry-studio/issues/5154#issuecomment-2821031905) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
