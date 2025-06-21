@@ -83,9 +83,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/CherryHQ/cherry-studio-app/issues/6) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
-2. 🎉 Merged PR [#7](https://github.com/CherryHQ/cherry-studio-app/pull/7) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
-3. 🗣 Commented on [#4](https://github.com/CherryHQ/cherry-studio-app/issues/4#issuecomment-2905018754) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
+1. 🗣 Commented on [#3](https://github.com/CherryHQ/cherry-studio-app/issues/3#issuecomment-2993580798) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
+2. 🔒 Closed issue [#3](https://github.com/CherryHQ/cherry-studio-app/issues/3) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
+3. 🔒 Closed issue [#10](https://github.com/CherryHQ/cherry-studio-app/issues/10) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
