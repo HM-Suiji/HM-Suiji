@@ -83,7 +83,7 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4644](https://github.com/heroui-inc/heroui/issues/4644#issuecomment-2997024281) in [heroui-inc/heroui](https://github.com/heroui-inc/heroui)
+1. ❗ Opened issue [#351](https://github.com/zh-lx/code-inspector/issues/351) in [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector)
 2. 🗣 Commented on [#3](https://github.com/CherryHQ/cherry-studio-app/issues/3#issuecomment-2993580798) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
 3. 🔒 Closed issue [#3](https://github.com/CherryHQ/cherry-studio-app/issues/3) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
 <!--END_SECTION:activity-->
