@@ -83,9 +83,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#308](https://github.com/hunghg255/reactjs-tiptap-editor/issues/308#issuecomment-3448456679) in [hunghg255/reactjs-tiptap-editor](https://github.com/hunghg255/reactjs-tiptap-editor)
-2. ❗ Opened issue [#308](https://github.com/hunghg255/reactjs-tiptap-editor/issues/308) in [hunghg255/reactjs-tiptap-editor](https://github.com/hunghg255/reactjs-tiptap-editor)
-3. ❗ Opened issue [#5781](https://github.com/heroui-inc/heroui/issues/5781) in [heroui-inc/heroui](https://github.com/heroui-inc/heroui)
+1. 🗣 Commented on [#152](https://github.com/CherryHQ/cherry-studio/issues/152#issuecomment-3476461129) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🗣 Commented on [#308](https://github.com/hunghg255/reactjs-tiptap-editor/issues/308#issuecomment-3448456679) in [hunghg255/reactjs-tiptap-editor](https://github.com/hunghg255/reactjs-tiptap-editor)
+3. ❗ Opened issue [#308](https://github.com/hunghg255/reactjs-tiptap-editor/issues/308) in [hunghg255/reactjs-tiptap-editor](https://github.com/hunghg255/reactjs-tiptap-editor)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
