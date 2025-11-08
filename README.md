@@ -83,9 +83,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1.  Labeled issue [#836](https://github.com/magicuidesign/magicui/issues/836) in [magicuidesign/magicui](https://github.com/magicuidesign/magicui)
-2. ❗ Opened issue [#836](https://github.com/magicuidesign/magicui/issues/836) in [magicuidesign/magicui](https://github.com/magicuidesign/magicui)
-3. 🗣 Commented on [#85390](https://github.com/vercel/next.js/issues/85390#issuecomment-3477918769) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 💪 Opened PR [#837](undefined) in [magicuidesign/magicui](https://github.com/magicuidesign/magicui)
+2.  Labeled issue [#836](https://github.com/magicuidesign/magicui/issues/836) in [magicuidesign/magicui](https://github.com/magicuidesign/magicui)
+3. ❗ Opened issue [#836](https://github.com/magicuidesign/magicui/issues/836) in [magicuidesign/magicui](https://github.com/magicuidesign/magicui)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
