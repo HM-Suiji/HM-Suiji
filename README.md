@@ -83,7 +83,7 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#837](undefined) in [magicuidesign/magicui](https://github.com/magicuidesign/magicui)
+1. 🗣 Commented on [#6](https://github.com/baotlake/periodic-table-pro/issues/6#issuecomment-3678751102) in [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro)
 2.  Labeled issue [#836](https://github.com/magicuidesign/magicui/issues/836) in [magicuidesign/magicui](https://github.com/magicuidesign/magicui)
 3. ❗ Opened issue [#836](https://github.com/magicuidesign/magicui/issues/836) in [magicuidesign/magicui](https://github.com/magicuidesign/magicui)
 <!--END_SECTION:activity-->
