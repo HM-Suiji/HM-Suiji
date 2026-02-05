@@ -83,7 +83,7 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/baotlake/periodic-table-pro/issues/6#issuecomment-3678751102) in [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro)
+1. 🗣 Commented on [#428](https://github.com/vitejs/vite-plugin-react/issues/428#issuecomment-3853850102) in [vitejs/vite-plugin-react](https://github.com/vitejs/vite-plugin-react)
 2.  Labeled issue [#836](https://github.com/magicuidesign/magicui/issues/836) in [magicuidesign/magicui](https://github.com/magicuidesign/magicui)
 3. ❗ Opened issue [#836](https://github.com/magicuidesign/magicui/issues/836) in [magicuidesign/magicui](https://github.com/magicuidesign/magicui)
 <!--END_SECTION:activity-->
