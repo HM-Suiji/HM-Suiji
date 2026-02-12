@@ -83,9 +83,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#428](https://github.com/vitejs/vite-plugin-react/issues/428#issuecomment-3888917993) in [vitejs/vite-plugin-react](https://github.com/vitejs/vite-plugin-react)
-2. 🗣 Commented on [#428](https://github.com/vitejs/vite-plugin-react/issues/428#issuecomment-3853850102) in [vitejs/vite-plugin-react](https://github.com/vitejs/vite-plugin-react)
-3. ❗ Opened issue [#836](https://github.com/magicuidesign/magicui/issues/836) in [magicuidesign/magicui](https://github.com/magicuidesign/magicui)
+1. ❗ Opened issue [#484](https://github.com/zh-lx/code-inspector/issues/484) in [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector)
+2. 🗣 Commented on [#481](https://github.com/zh-lx/code-inspector/issues/481#issuecomment-3890193178) in [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector)
+3. 🗣 Commented on [#428](https://github.com/vitejs/vite-plugin-react/issues/428#issuecomment-3888917993) in [vitejs/vite-plugin-react](https://github.com/vitejs/vite-plugin-react)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
