@@ -83,9 +83,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#484](https://github.com/zh-lx/code-inspector/issues/484) in [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector)
-2. 🗣 Commented on [#484](https://github.com/zh-lx/code-inspector/issues/484#issuecomment-3891253606) in [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector)
-3. ❗ Opened issue [#484](https://github.com/zh-lx/code-inspector/issues/484) in [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector)
+1. ℹ️ Labeled issue [#5368](https://github.com/drizzle-team/drizzle-orm/issues/5368) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+2. ❗ Opened issue [#5368](https://github.com/drizzle-team/drizzle-orm/issues/5368) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+3. 🔒 Closed issue [#484](https://github.com/zh-lx/code-inspector/issues/484) in [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
