@@ -1,9 +1,6 @@
 <p align="center">中文 | <a href="./README.en.md">English</a></p>
 
-<div align="center">
-    <!-- dynamic typing effect 动态打字效果 -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);你好，世界&center=true&size=27" alt="Typing SVG" />
-</div>
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C+World%E2%80%9D);%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C>)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HM-Suiji/HM-Suiji/blob/output/github-contribution-grid-snake-dark.svg">
@@ -117,19 +114,6 @@
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>
-
----
-
-# 待办状态
-
-<!-- TODO-IST:START -->
-🏆  450 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 7 tasks so far           
-⏳  Longest streak is 1 days
-<!-- TODO-IST:END -->
-
----
 
 <!-- profile-3d-contrib 3D贡献图-->
 <img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji/profile-3d-contrib/profile-night-rainbow.svg" />

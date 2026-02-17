@@ -1,11 +1,8 @@
 <p align="center"><a href="./README.md">中文</a> | English</p>
 
-<div align="center">
-    <!-- dynamic typing effect 动态打字效果 -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hello,World&center=true&size=27" alt="Typing SVG" />
-</div>
-
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C+World%E2%80%9D);%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C>)](https://git.io/typing-svg)
 <picture>
+
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HM-Suiji/HM-Suiji/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/HM-Suiji/HM-Suiji/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HM-Suiji/HM-Suiji/output/github-contribution-grid-snake.svg">
@@ -117,19 +114,6 @@
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>
-
----
-
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-🏆  300 Karma Points
-🌸  Completed 0 tasks today
-✅  Completed 1 tasks so far
-⏳  Longest streak is 0 days
-<!-- TODO-IST:END -->
-
----
 
 <!-- profile-3d-contrib 3D贡献图-->
 <img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji/profile-3d-contrib/profile-night-rainbow.svg" />
