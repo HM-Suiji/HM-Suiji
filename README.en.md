@@ -1,6 +1,7 @@
 <p align="center"><a href="./README.md">中文</a> | English</p>
 
-[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C+World%E2%80%9D);%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C>)](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C+World%22);%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C>)](https://git.io/typing-svg)
+
 <picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HM-Suiji/HM-Suiji/blob/output/github-contribution-grid-snake-dark.svg">
@@ -73,9 +74,9 @@
 <tr><td>
     <h1>My GitHub Stats</h1>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HM-Suiji&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HM-Suiji&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HM-Suiji&theme=react&radius=10" height="150" alt="activity-graph graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/profile/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/profile/top-langs.svg" height="150" alt="languages graph"  />
+  <img src="hhttps://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/profile/pin-readme-tools-github-readme-stats.svg" height="150" alt="activity-graph graph"  />
 </div>
 </td></tr>
 <tr><td>

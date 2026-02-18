@@ -11,18 +11,58 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card
+      - name: Generate cn stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
-          path: profile/stats.svg
+          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=cn&hide_border=false
+          path: assets/profile/stats-cn.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate cn top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&locale=cn&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=false
+          path: assets/profile/top-langs-cn.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate cn pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&theme=tokyo-night&radius=10&locale=cn&custom_title=穗积的贡献图
+          path: assets/profile/pin-readme-tools-github-readme-stats-cn.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate en stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false
+          path: assets/profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate en top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=false
+          path: assets/profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate en pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&theme=tokyo-night&radius=10&locale=en
+          path: assets/profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
+          git add assets/profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
