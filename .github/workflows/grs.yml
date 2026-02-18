@@ -31,7 +31,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=cherry-studio&theme=tokyo-night&radius=10&locale=cn&custom_title=穗积的贡献图&hide_border=false&border_color=000000
+          options: username=${{ github.repository_owner }}&repo=cherry-studio&theme=tokyo-night&radius=10&locale=cn&hide_border=false&border_color=000000
           path: assets/profile/pin-readme-tools-github-readme-stats-cn.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
