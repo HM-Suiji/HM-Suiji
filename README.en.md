@@ -11,11 +11,15 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello!👋 Nice to meet you.
 </h1>
 
+<div style="margin-bottom:-45px;">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
 <table>
 <tr><td>
     <h3>About Me</h3>
     <img align="right" width="88" src="https://avatars.githubusercontent.com/u/103424870"/>
-    <p>&emsp;&emsp;Hello everyone, I'm Sui Ji, a front-end-biased full-stack development engineer from <img style="height:25px;" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/svg/china.svg"/><b>China, Jiangxi Province</b>. </p>
+    <p>&emsp;&emsp;Hello everyone, I'm Sui Ji, a front-end-biased full-stack development engineer from <img style="height:25px;" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/svg/china.svg"/><b>China, Jiangxi Province</b>. </p>
     <p>&emsp;&emsp;A senior programmer</p>
  <p><strong>&emsp;&emsp;TECH OTAKUS SAVE THE WORLD. </strong></p>
 </td></tr>
@@ -118,8 +122,8 @@
 <!-- profile-3d-contrib 3D贡献图-->
 <img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji/profile-3d-contrib/profile-night-rainbow.svg" />
 
----
-
-<!-- [![HM-Suiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=HM-Suiji&theme=tokyonight)](https://github.com/HM-Suiji/github-readme-stats) -->
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 <p align="center"><img src="https://img.shields.io/badge/README_build-passing-30c452" /> <img alt="Stars" src="https://img.shields.io/github/stars/HM-Suiji/HM-Suiji?style=flat-square&labelColor=343b41"/>
