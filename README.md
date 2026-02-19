@@ -14,7 +14,7 @@
 <tr><td>
     <h3>About Me</h3>
     <img align="right" width="88" src="https://avatars.githubusercontent.com/u/103424870"/>
-    <p>&emsp;&emsp;大家好, 我是穗积, 一名来自<img style="height:25px;" src="https://img.gugu.ovh/i/2023/08/31/njd0o5.webp"/><b>中国, 江西省</b>的前端偏全栈开发工程师。 </p>
+    <p>&emsp;&emsp;大家好, 我是穗积, 一名来自<img style="height:25px;" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/svg/china.svg"/><b>中国, 江西省</b>的前端偏全栈开发工程师。 </p>
     <p>&emsp;&emsp;一名资深的<小白>程序员 doge</p>
     <p>&emsp;&emsp;技术宅正在拯救世界ing! </p>
  <p><strong>&emsp;&emsp;TECH OTAKUS SAVE THE WORLD. </strong></p>
@@ -75,7 +75,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/profile/stats-cn.svg" height="150" alt="stats graph"  />
   <img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/profile/top-langs-cn.svg" height="150" alt="languages graph"  />
-  <img src="hhttps://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/profile/pin-readme-tools-github-readme-stats-cn.svg" height="150" alt="activity-graph graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/profile/pin-readme-tools-github-readme-stats-cn.svg" height="150" alt="activity-graph graph"  />
 </div>
 </td></tr>
 <tr><td>

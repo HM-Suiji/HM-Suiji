@@ -3,7 +3,6 @@
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C+World%22);%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C>)](https://git.io/typing-svg)
 
 <picture>
-
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HM-Suiji/HM-Suiji/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/HM-Suiji/HM-Suiji/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HM-Suiji/HM-Suiji/output/github-contribution-grid-snake.svg">
@@ -16,7 +15,7 @@
 <tr><td>
     <h3>About Me</h3>
     <img align="right" width="88" src="https://avatars.githubusercontent.com/u/103424870"/>
-    <p>&emsp;&emsp;Hello everyone, I'm Sui Ji, a front-end-biased full-stack development engineer from <img style="height:25px;" src="https://img.gugu.ovh/i/2023/08/31/njd0o5.webp"/><b>China, Jiangxi Province</b>. </p>
+    <p>&emsp;&emsp;Hello everyone, I'm Sui Ji, a front-end-biased full-stack development engineer from <img style="height:25px;" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/svg/china.svg"/><b>China, Jiangxi Province</b>. </p>
     <p>&emsp;&emsp;A senior programmer</p>
  <p><strong>&emsp;&emsp;TECH OTAKUS SAVE THE WORLD. </strong></p>
 </td></tr>
@@ -76,7 +75,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/profile/stats.svg" height="150" alt="stats graph"  />
   <img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/profile/top-langs.svg" height="150" alt="languages graph"  />
-  <img src="hhttps://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/profile/pin-readme-tools-github-readme-stats.svg" height="150" alt="activity-graph graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/profile/pin-readme-tools-github-readme-stats.svg" height="150" alt="activity-graph graph"  />
 </div>
 </td></tr>
 <tr><td>
