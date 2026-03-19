@@ -84,8 +84,8 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#5368](https://github.com/drizzle-team/drizzle-orm/issues/5368) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-2. ❗ Opened issue [#5368](https://github.com/drizzle-team/drizzle-orm/issues/5368) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+1. 🗣 Commented on [#836](https://github.com/magicuidesign/magicui/issues/836#issuecomment-4090233652) in [magicuidesign/magicui](https://github.com/magicuidesign/magicui)
+2. 🗣 Commented on [#837](https://github.com/magicuidesign/magicui/pull/837#issuecomment-4090210806) in [magicuidesign/magicui](https://github.com/magicuidesign/magicui)
 3. 🔒 Closed issue [#484](https://github.com/zh-lx/code-inspector/issues/484) in [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector)
 <!--END_SECTION:activity-->
 </td></tr>
