@@ -84,9 +84,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#358](https://github.com/microsoft/playwright-cli/issues/358#issuecomment-4231354149) in [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli)
-2. ❗ Opened issue [#358](https://github.com/microsoft/playwright-cli/issues/358) in [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli)
-3. 🗣 Commented on [#18301](https://github.com/oxc-project/oxc/issues/18301#issuecomment-4186107678) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+1. ℹ️ Labeled issue [#374](https://github.com/CherryHQ/cherry-studio-app/issues/374) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
+2. ℹ️ Labeled issue [#206](https://github.com/CherryHQ/cherry-studio-app/issues/206) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
+3. 🔒 Closed issue [#283](https://github.com/CherryHQ/cherry-studio-app/issues/283) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
