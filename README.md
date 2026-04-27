@@ -107,16 +107,17 @@
 <img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/svg/ts.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/svg/nginx.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/gif/html.webp">
+<!-- <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/gif/html.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/gif/css.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/gif/vscode.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/gif/react.webp">
 <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/gif/vue.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/gif/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/gif/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/gif/github.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/gif/github.webp"> -->
+<img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji/assets/images/hmsuiji.png" />
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+<img src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji/assets/images/icon.png" />
 </div>
 
 <!-- profile-3d-contrib 3D贡献图-->
