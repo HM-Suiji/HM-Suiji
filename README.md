@@ -84,9 +84,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15](https://github.com/sergioazoc/oxlint-tailwindcss/issues/15) in [sergioazoc/oxlint-tailwindcss](https://github.com/sergioazoc/oxlint-tailwindcss)
-2. ℹ️ Labeled issue [#374](https://github.com/CherryHQ/cherry-studio-app/issues/374) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
-3. ℹ️ Labeled issue [#206](https://github.com/CherryHQ/cherry-studio-app/issues/206) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
+1. 🗣 Commented on [#15](https://github.com/sergioazoc/oxlint-tailwindcss/issues/15#issuecomment-4376723407) in [sergioazoc/oxlint-tailwindcss](https://github.com/sergioazoc/oxlint-tailwindcss)
+2. ❗ Opened issue [#15](https://github.com/sergioazoc/oxlint-tailwindcss/issues/15) in [sergioazoc/oxlint-tailwindcss](https://github.com/sergioazoc/oxlint-tailwindcss)
+3. ℹ️ Labeled issue [#374](https://github.com/CherryHQ/cherry-studio-app/issues/374) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
