@@ -84,7 +84,7 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/sergioazoc/oxlint-tailwindcss/issues/15#issuecomment-4376723407) in [sergioazoc/oxlint-tailwindcss](https://github.com/sergioazoc/oxlint-tailwindcss)
+1. ❗ Opened issue [#1](https://github.com/vibe-motion/create-vibe-motion/issues/1) in [vibe-motion/create-vibe-motion](https://github.com/vibe-motion/create-vibe-motion)
 2. ❗ Opened issue [#15](https://github.com/sergioazoc/oxlint-tailwindcss/issues/15) in [sergioazoc/oxlint-tailwindcss](https://github.com/sergioazoc/oxlint-tailwindcss)
 3. ℹ️ Labeled issue [#374](https://github.com/CherryHQ/cherry-studio-app/issues/374) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
 <!--END_SECTION:activity-->
