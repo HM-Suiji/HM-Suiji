@@ -84,9 +84,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/vibe-motion/.github/issues/16) in [vibe-motion/.github](https://github.com/vibe-motion/.github)
-2. ❗ Opened issue [#1](https://github.com/vibe-motion/create-vibe-motion/issues/1) in [vibe-motion/create-vibe-motion](https://github.com/vibe-motion/create-vibe-motion)
-3. ℹ️ Labeled issue [#374](https://github.com/CherryHQ/cherry-studio-app/issues/374) in [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app)
+1. 🎉 Merged PR [#30](https://github.com/afoim/friends-and-sponsors/pull/30) in [afoim/friends-and-sponsors](https://github.com/afoim/friends-and-sponsors)
+2. 💪 Opened PR [#30](https://github.com/afoim/friends-and-sponsors/pull/30) in [afoim/friends-and-sponsors](https://github.com/afoim/friends-and-sponsors)
+3. ❗ Opened issue [#16](https://github.com/vibe-motion/.github/issues/16) in [vibe-motion/.github](https://github.com/vibe-motion/.github)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
