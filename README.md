@@ -20,8 +20,8 @@
     <img align="right" width="88" src="https://avatars.githubusercontent.com/u/103424870"/>
     <p>&emsp;&emsp;大家好, 我是穗积, 一名来自<img style="height:25px;" src="https://cdn.jsdelivr.net/gh/HM-Suiji/HM-Suiji@master/assets/icons/svg/china.svg"/><b>中国, 江西省</b>的前端偏全栈开发工程师。 </p>
     <p>&emsp;&emsp;一名资深的<小白>程序员 doge</p>
-    <p>&emsp;&emsp;技术宅正在拯救世界ing! </p>
- <p><strong>&emsp;&emsp;TECH OTAKUS SAVE THE WORLD. </strong></p>
+    <p>&emsp;&emsp;莫笑吾辈好远骛，跬步平川马蹄疾。</p>
+    <p>&emsp;&emsp;我的博客：[穗积的宇宙船](https://blog.huanment.top/)</p>
 </td></tr>
 <tr><td>
     <h1>我的技术栈</h1>
