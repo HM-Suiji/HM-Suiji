@@ -84,8 +84,8 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/afoim/friends-and-sponsors/pull/30) in [afoim/friends-and-sponsors](https://github.com/afoim/friends-and-sponsors)
-2. 💪 Opened PR [#30](https://github.com/afoim/friends-and-sponsors/pull/30) in [afoim/friends-and-sponsors](https://github.com/afoim/friends-and-sponsors)
+1. 🎉 Merged PR [#30](https://github.com/afoim/af_friends-data/pull/30) in [afoim/af_friends-data](https://github.com/afoim/af_friends-data)
+2. 💪 Opened PR [#30](https://github.com/afoim/af_friends-data/pull/30) in [afoim/af_friends-data](https://github.com/afoim/af_friends-data)
 3. ❗ Opened issue [#16](https://github.com/vibe-motion/.github/issues/16) in [vibe-motion/.github](https://github.com/vibe-motion/.github)
 <!--END_SECTION:activity-->
 </td></tr>
