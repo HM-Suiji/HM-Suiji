@@ -84,9 +84,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/afoim/af_friends-data/pull/30) in [afoim/af_friends-data](https://github.com/afoim/af_friends-data)
-2. 💪 Opened PR [#30](https://github.com/afoim/af_friends-data/pull/30) in [afoim/af_friends-data](https://github.com/afoim/af_friends-data)
-3. ❗ Opened issue [#16](https://github.com/vibe-motion/.github/issues/16) in [vibe-motion/.github](https://github.com/vibe-motion/.github)
+1. 🗣 Commented on [#96756](https://github.com/vercel/next.js/issues/96756#issuecomment-5237282555) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🎉 Merged PR [#30](https://github.com/afoim/af_friends-data/pull/30) in [afoim/af_friends-data](https://github.com/afoim/af_friends-data)
+3. 💪 Opened PR [#30](https://github.com/afoim/af_friends-data/pull/30) in [afoim/af_friends-data](https://github.com/afoim/af_friends-data)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
