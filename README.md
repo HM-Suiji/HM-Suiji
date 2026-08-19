@@ -84,9 +84,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96756](https://github.com/vercel/next.js/issues/96756#issuecomment-5237282555) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🎉 Merged PR [#30](https://github.com/afoim/af_friends-data/pull/30) in [afoim/af_friends-data](https://github.com/afoim/af_friends-data)
-3. 💪 Opened PR [#30](https://github.com/afoim/af_friends-data/pull/30) in [afoim/af_friends-data](https://github.com/afoim/af_friends-data)
+1. 🎉 Merged PR [#3](https://github.com/HM-Suiji/blog/pull/3) in [HM-Suiji/blog](https://github.com/HM-Suiji/blog)
+2. 💪 Opened PR [#3](https://github.com/HM-Suiji/blog/pull/3) in [HM-Suiji/blog](https://github.com/HM-Suiji/blog)
+3. ℹ️ Labeled issue [#8215](https://github.com/ueberdosis/tiptap/issues/8215) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
