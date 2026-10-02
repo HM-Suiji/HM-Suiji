@@ -84,9 +84,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/SnowLeopard-io/ErgalicsStudio/pull/7) in [SnowLeopard-io/ErgalicsStudio](https://github.com/SnowLeopard-io/ErgalicsStudio)
-2. 💪 Opened PR [#7](https://github.com/SnowLeopard-io/ErgalicsStudio/pull/7) in [SnowLeopard-io/ErgalicsStudio](https://github.com/SnowLeopard-io/ErgalicsStudio)
-3. 🗣 Commented on [#96756](https://github.com/vercel/next.js/issues/96756#issuecomment-5558300504) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 🎉 Merged PR [#12](https://github.com/SnowLeopard-io/ErgalicsStudio/pull/12) in [SnowLeopard-io/ErgalicsStudio](https://github.com/SnowLeopard-io/ErgalicsStudio)
+2. 💪 Opened PR [#12](https://github.com/SnowLeopard-io/ErgalicsStudio/pull/12) in [SnowLeopard-io/ErgalicsStudio](https://github.com/SnowLeopard-io/ErgalicsStudio)
+3. 🎉 Merged PR [#7](https://github.com/SnowLeopard-io/ErgalicsStudio/pull/7) in [SnowLeopard-io/ErgalicsStudio](https://github.com/SnowLeopard-io/ErgalicsStudio)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
