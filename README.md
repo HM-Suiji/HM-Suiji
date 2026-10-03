@@ -84,9 +84,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/SnowLeopard-io/ErgalicsStudio/pull/12) in [SnowLeopard-io/ErgalicsStudio](https://github.com/SnowLeopard-io/ErgalicsStudio)
-2. 💪 Opened PR [#12](https://github.com/SnowLeopard-io/ErgalicsStudio/pull/12) in [SnowLeopard-io/ErgalicsStudio](https://github.com/SnowLeopard-io/ErgalicsStudio)
-3. 🎉 Merged PR [#7](https://github.com/SnowLeopard-io/ErgalicsStudio/pull/7) in [SnowLeopard-io/ErgalicsStudio](https://github.com/SnowLeopard-io/ErgalicsStudio)
+1. 🎉 Merged PR [#2](https://github.com/FlowToolsOrg/flowtools/pull/2) in [FlowToolsOrg/flowtools](https://github.com/FlowToolsOrg/flowtools)
+2. 💪 Opened PR [#2](https://github.com/FlowToolsOrg/flowtools/pull/2) in [FlowToolsOrg/flowtools](https://github.com/FlowToolsOrg/flowtools)
+3. 🎉 Merged PR [#12](https://github.com/SnowLeopard-io/ErgalicsStudio/pull/12) in [SnowLeopard-io/ErgalicsStudio](https://github.com/SnowLeopard-io/ErgalicsStudio)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
