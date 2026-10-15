@@ -84,9 +84,9 @@
 </td></tr>
 <tr><td>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/FlowToolsOrg/flowtools/pull/14) in [FlowToolsOrg/flowtools](https://github.com/FlowToolsOrg/flowtools)
-2. 💪 Opened PR [#13](https://github.com/FlowToolsOrg/flowtools/pull/13) in [FlowToolsOrg/flowtools](https://github.com/FlowToolsOrg/flowtools)
-3. 💪 Opened PR [#12](https://github.com/FlowToolsOrg/flowtools/pull/12) in [FlowToolsOrg/flowtools](https://github.com/FlowToolsOrg/flowtools)
+1. 💪 Opened PR [#15](https://github.com/FlowToolsOrg/flowtools/pull/15) in [FlowToolsOrg/flowtools](https://github.com/FlowToolsOrg/flowtools)
+2. 🎉 Merged PR [#12](https://github.com/FlowToolsOrg/flowtools/pull/12) in [FlowToolsOrg/flowtools](https://github.com/FlowToolsOrg/flowtools)
+3. 🎉 Merged PR [#14](https://github.com/FlowToolsOrg/flowtools/pull/14) in [FlowToolsOrg/flowtools](https://github.com/FlowToolsOrg/flowtools)
 <!--END_SECTION:activity-->
 </td></tr>
 </table>
